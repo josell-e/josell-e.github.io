@@ -49,7 +49,7 @@ li a:hover {
   background-color: #111;
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+/* Three image containers (use 25% for four, and 50% for three, etc) */
 .column {
   float: left;
   width: 33.33%;
