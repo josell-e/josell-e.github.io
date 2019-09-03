@@ -26,6 +26,8 @@ p {
 	background:tomato;
 }
 
+/*comment*/
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -50,6 +52,7 @@ li a:hover {
   background-color: #111;
 }
 
+/*comment*/
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
@@ -64,6 +67,8 @@ li a:hover {
   clear: both;
   display: table;
 }
+
+/*comment*/
 
 .aboutme {
 	margin-left: 120px;
