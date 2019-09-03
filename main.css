@@ -22,6 +22,8 @@ p {
 	height:500px;
 }
  
+/*comment*/
+
 .tomato{
 	background:tomato;
 }
@@ -39,6 +41,8 @@ ul {
 li {
   float: left;
 }
+
+/*comment*/
 
 li a {
   display: block;
